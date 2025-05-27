@@ -1,0 +1,1 @@
+bolt-youtube-subscription-manager
